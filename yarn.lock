@@ -2175,6 +2175,11 @@
   "resolved" "https://registry.npmjs.org/@types/stack-utils/-/stack-utils-2.0.1.tgz"
   "version" "2.0.1"
 
+"@types/three@^0.127.0":
+  "integrity" "sha512-e90iYq3zde3axANg7BPZY0fKrez1AzveamIIFk23PMh9WtCx91geokDy+yEAIymdIldgUpvezAP6+zCV3oekXw=="
+  "resolved" "https://registry.npmjs.org/@types/three/-/three-0.127.1.tgz"
+  "version" "0.127.1"
+
 "@types/yargs-parser@*":
   "integrity" "sha512-FA/BWv8t8ZWJ+gEOnLLd8ygxH/2UFbAvgEonyfN6yWGLKc7zVjbpl2Y4CTjid9h2RfgPP6SEt6uHwEOply00yw=="
   "resolved" "https://registry.npmjs.org/@types/yargs-parser/-/yargs-parser-15.0.0.tgz"
